@@ -46,7 +46,6 @@
 
 <h2 align="left">🔥 Streak Stats</h2>  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maikelcaardenas&hide_border=true)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maikelcaardenas&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
